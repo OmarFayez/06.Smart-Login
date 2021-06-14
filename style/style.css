@@ -1,0 +1,14 @@
+body
+{
+    background-color:  #24353f;
+}
+.content , .navi
+{
+    box-shadow: 0 0 35px 10px ;
+}
+
+.content .in1 ,.content .in2
+{
+    background-color:transparent ;
+    color: #fff ;
+}

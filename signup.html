@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style/bootstrap.min.css">
+        <link rel="stylesheet" href="style/style.css">
+
+    </head>
+    <body>
+       <div class="content w-50 mx-auto my-5 p-5 ">
+           <h1 class="text-center text-primary mb-4">Smart Login System</h1>
+           
+           <input id="name" onkeyup="checkNameInput()" type="text" class="in1 form-control" placeholder="Enter Your Name" >
+           <div id="alert1" class="d-none alert alert-danger border px-2 py-1 w-100"></div>
+           <input id="email"onkeyup="checkEmailInput()" type="email" class="in1 mt-3 form-control" placeholder="Enter Your Email" >
+           <div id="alert2" class="d-none alert alert-danger border px-2 py-1 w-100"></div>
+           <input id="password" onkeyup="checkPasswordInput()" type="password" class="in2 mt-3 form-control"placeholder="Enter Your Password" >
+           <div id="alert3" class="d-none alert alert-danger border px-2 py-1 w-100"></div>
+
+           <div id="alertAll" class="d-none mt-3 text-center "></div>
+           <button id="signUp" onclick="signUp()" class=" w-100 mb-3 mt-4 btn btn-outline-primary">Sign Up</button>
+           <p class="text-center text-white">Don’t have an account? <a class="text-white" href="index.html">Sign In</a> </p>
+       </div>
+
+        <script src="js/script.js"></script>
+    </body>
+</html>

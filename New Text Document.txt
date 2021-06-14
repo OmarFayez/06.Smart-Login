@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/57424803/how-to-set-the-innerhtml-of-an-element-from-another-file-using-javascript
