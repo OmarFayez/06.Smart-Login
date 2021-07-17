@@ -12,7 +12,7 @@
 
 ### About
 
--it's a smart system to sign up and log in with real time validation which use loacalStorage of the browser to store accounts data and check if the user signed up before then allow to the user to go to home page.
+-It's a smart system to sign up and log in with real time validation which use loacalStorage of the browser to store accounts data and check if the user signed up before then allow to the user to go to home page.
 
 ### Screenshot
 
