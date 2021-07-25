@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [About](#About)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -13,10 +12,6 @@
 ### About
 
 -It's a smart system to sign up and log in with real time validation which use loacalStorage of the browser to store accounts data and check if the user signed up before then allow to the user to go to home page.
-
-### Screenshot
-
-![Login](https://im7.ezgif.com/tmp/ezgif-7-b2eb95c8103e.gif)
 
 ### Links
 
